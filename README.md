@@ -14,8 +14,11 @@
 
 ### ✨Main Projects
 1. Scholarship Like 📱
-  > This is an android app that shows and filters scholarship imformations.  
-  > This includes country, on-campus, and out-campus for university students.  
+  > This is an android app that shows and filters scholarship informations.  
+  > This includes country, on-campus, and out-campus for university students.
+  > It is filtering scholarships by conditions that user puts as like grades, income.  
+  > It shows not only scholarship's informations, but also tips and magazins about money focusing on students.  
+  > We also put advertisements in app because it was a item for a star-up club.  
   > [Project_Link](https://github.com/kyunghee1210/Scholarship-Like)  
 2. Pupil Control 👀
   > This is an auto web scroll solution with detecting pupil.  
