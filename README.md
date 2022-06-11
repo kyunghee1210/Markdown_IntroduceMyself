@@ -14,7 +14,7 @@
 1. Scholarship Like 📱
   > This is an android app that shows and filters scholarship imformations.
   > This includes country, on-campus, and out-campus for university students.
-  > [Project_Link]()
+  > [Project_Link]()  
 2 Pupil Control 👀
   > This is an 
 
