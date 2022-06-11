@@ -8,20 +8,20 @@
 * Univ : Hallym University
 * Major : Big Data
 * Interest In (as a developer) : Android, Web, Java, Kotlin 
-* Hubby : Trip, Make a pramodel/lego, Touring retaurants
+* Hobby : Trip, Make a pramodel/lego, Touring retaurants
 
 ---
 
 ### ✨Main Projects
 1. Scholarship Like 📱
-  > This is an android app that shows and filters scholarship imformations.
-  > This includes country, on-campus, and out-campus for university students.
+  > This is an android app that shows and filters scholarship imformations.  
+  > This includes country, on-campus, and out-campus for university students.  
   > [Project_Link](https://github.com/kyunghee1210/Scholarship-Like)  
 2. Pupil Control 👀
-  > This is an auto web scroll solution with detecting pupil.
-  > It is useful especially when we were in subway.
-  > When user looks at the lower part of the web for cetain amount of time, the page automatically goes down.
-  > It controls the page by recognizing the ratio from the center of the pupil to the bottom.
+  > This is an auto web scroll solution with detecting pupil.  
+  > It is useful especially when we were in subway.  
+  > When user looks at the lower part of the web for cetain amount of time, the page automatically goes down.  
+  > It controls the page by recognizing the ratio from the center of the pupil to the bottom.  
   > [Project Link](https://github.com/kyunghee1210/Pupil_Control)
 
 ---
